@@ -13,15 +13,13 @@ body{
 
 	overflow-x:hidden;
 
-}
 
 
-/**a{
-	color: #999999;
-}
 a:hover{
-	color: #dddddd;
-}
+	color: #fff;
+=======
+	color: #999999;
+
 **/
 
 #intro_container, #outro_container{
